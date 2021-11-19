@@ -1,5 +1,6 @@
 # Google-Data-Analytics-Capstone-Case-Study-1
 Google Data Analytics Capstone Case Study
+
 Welcome to Google Data Analytics Capstone Case Study 1 repository! This is my first hands-on, full project that I had to complete 
 as a part of my Google Data Analytics Certification program. I was asked to imagine that I was working for Bellabeat, a high-tech manufacturer of health-focused 
 products for women, and meet different characters and team members. In order to answer the key business questions, you will follow the steps of the
