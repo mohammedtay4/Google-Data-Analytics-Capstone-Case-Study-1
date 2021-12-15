@@ -9,7 +9,7 @@ data analysis process: ask, prepare, process, analyze, share, and act.
 I was asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The
 insights I discover will then help guide marketing strategy for the company.
 
-As a disclaimer, this was my first ever data analytics project. It isn't perfect, but I successfully managed to perform all important processes such as:
+I successfully managed to perform the following tasks for this project:
 1. Collecting data
 2. Cleaning data
 3. Transforming Data
